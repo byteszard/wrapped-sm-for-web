@@ -2,7 +2,7 @@
 name = "wrapped-sm-for-web"
 version = "0.1.0"
 authors = ["尼维森莫·纳默帝敖 <icocoabeans@gmail.com>"]
-edition = "2018"
+edition = "2021"
 
 [lib]
 name = "wsm4w"
